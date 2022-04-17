@@ -1,0 +1,46 @@
+Abstract/Introduction
+
+Problem Statements
+1. working Parents facing difficulties in taking care of their baby.
+2. Babies wake up at the night and hence it becomes difficult for parents to have a good sleep
+3.  Lots of times it causes disturbance for a mother to perform her other activities.
+4. Weight Tracking of the baby to measure the health of the baby is difficult.
+
+Objectives
+1.Control Cradle Movement over Mobile App
+2.Wet Detection with notification on Mobile App
+3.Baby Cry Detection and Automatic Toy Play and Music on Baby Cry
+4.Baby Lore/Sleep Mode
+5.Baby Weight Monitoring and Tracking Progress
+6.Automatic Fan
+
+
+Literature Survey
+1.http://journalstd.com/gallery/27-sep2020.pdf
+—This papers represents a prototype of a cradle which automatically moves when baby cries. 
+2.https://ieeexplore.ieee.org/abstract/document/9358684/
+ This papers represents a prototype of a cradle with smart baby monitoring with live streamming 
+3.https://www.researchgate.net/publication/340623408_Analysis_on_IoT_Based_Smart_Cradle_System_with_an_Android_Application_for_Baby_Monitoring
+ This papers represents a prototype of a cradle with a android application to control the cradle along with wet detection and sound detection.
+4.https://core.ac.uk/download/pdf/232204217.pdf 
+ This papers represents a prototype of a cradle operated using node mcu which automatically controls the cradle along with automatic fan facility and baby cry detection 
+5.StarAndDaisy Nestling Smart & Portable Baby Cradle Crib with automatic swing, remote and Bluetooth (GREY)   7000+(Only Automatic)
+ A product on Amazon with only automatic movement of cradle.
+6.Jula Automation - A Product showcased on SharkTank with good features like wet detection,weight detection,etc. Costs more than 1 Lakh+
+
+
+
+Technologies used
+Software :
+       Flutter - cross platform sdk for developing mobile apps.
+       Arduino - IDE for programming arduino boards
+Hardware :
+       8GB Ram 
+       I3+ Processor 
+       20GB Space 
+
+Work done So Far
+Design The System Architecture of the Project
+
+
+
